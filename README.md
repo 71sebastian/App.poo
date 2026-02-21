@@ -34,3 +34,27 @@ Esta es una aplicación interactiva creada con **Streamlit** para el Módulo 1 d
 - **NumPy** - Para cálculos matemáticos
 
 ## 📁 Estructura del proyecto
+proyecto-python-fundamentals/
+├── app.py # El programa principal
+├── requirements.txt # Las herramientas que necesita
+└── README.md # Este archivo (instrucciones)
+
+
+## 🚀 Cómo ejecutar la aplicación
+
+### En tu computadora local:
+
+1. **Instala Python** (si no lo tienes)
+   - Ve a: https://www.python.org/downloads/
+   - Descarga Python 3.9 o superior
+   - IMPORTANTE: Marca "Add Python to PATH" durante la instalación
+
+2. **Descarga este proyecto**
+   ```bash
+   git clone https://github.com/71sebastian/App.poo.git
+
+3. **Instala dependecias**
+    pip install -r requirements.txt
+
+4. **Ejecuta aplicaicon**
+    streamlit run app.py
