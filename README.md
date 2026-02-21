@@ -50,11 +50,13 @@ proyecto-python-fundamentals/
    - IMPORTANTE: Marca "Add Python to PATH" durante la instalación
 
 2. **Descarga este proyecto**
-   ```bash
-   git clone https://github.com/71sebastian/App.poo.git
-
+   
+   Repositrio Githu: git clone https://github.com/71sebastian/App.poo.git
+   App Streamlit: https://apppoo-bts3vxq4nyjzkpobpw2uth.streamlit.app/
+   
 3. **Instala dependecias**
     pip install -r requirements.txt
 
 4. **Ejecuta aplicaicon**
     streamlit run app.py
+
